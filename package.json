@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@types/node": "^12.12.14",
     "fp-ts": "^2.2.0",
+    "ts-node": "^8.5.4",
     "typescript": "^3.7.3"
   }
 }
