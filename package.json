@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fp-ts": "^2.2.0",
+    "typescript": "^3.7.3"
+  }
+}
